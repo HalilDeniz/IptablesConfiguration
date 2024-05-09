@@ -72,7 +72,7 @@ Specify ports or port ranges to allow:
 
 #### **Troubleshooting**
 
-If you encounter any issues or errors while using `iptables-configurator`, feel free to join our Discord server for assistance: [Join Discord Server](https://discord.gg/nGBpfMHX4u)
+If you encounter any issues or errors while using `iptables-configuration`, feel free to join our Discord server for assistance: [Join Discord Server](https://discord.gg/nGBpfMHX4u)
 
 
 
